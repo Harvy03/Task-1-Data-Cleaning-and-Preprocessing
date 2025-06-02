@@ -1,5 +1,5 @@
 # Task-1-Data-Cleaning-and-Preprocessing
-# 🧼 Customer Personality Analysis – Data Cleaning & Preprocessing
+# Customer Personality Analysis – Data Cleaning & Preprocessing
 
 This repository contains the cleaned version of the **Customer Personality Analysis** dataset from Kaggle, prepared for further analysis or machine learning.
 
